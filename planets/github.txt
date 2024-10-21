@@ -1,0 +1,32 @@
+#Problem Number 1
+
+#1.1: Use the command print working directory.
+#1.2: ls lists the names of all the non-hidden directories and files
+#1.3: cat [name of the file] allows you to edit the file specified
+#1.4: nano [name of the file] allows you to read the text
+#1.5: What do you mean see the difference? See the difference as in comparing the two files' contents or names?
+#1.6: cp "patterns.txt" ~./math/calculus/
+#1.7: rm ~/math/calculus/triangle.txt
+#1.8: Music is not specified in this question, but I believe the correct command to call would be cd ~/math
+#1.9: git add math
+#1.10: git add math?
+#1.11: cp "symmetry.txt" ..~/math
+#1.12: git status, git won't show you tracking a new file until it has already been committed. 
+#1.13: git add "symmetry.txt, git add ..
+#1.14: run git status and check if it is waiting to be committed. git restore --staged [file path]
+#1.15 git commit
+#1.16 git push origin [branch you are pushing] You want to push to your local branch otherwise it will overrite your files in a different branch with the files staged in the branch you are working in
+#1.17 git branch applied_math
+#1.18 git checkout applied_math
+#1.19 git add, git commit, git push origin applied_math. If you commit to the wrong branch you overrite the files in the other branch with the files staged in this one.
+#1.20 git branch, your current working branch will be highlighted
+#1.21 git checkout [main or master]
+#1.22 
+
+#                                                                           ulab
+#                         ulab_2024                                                                                        ulab_lucas
+#    README.md, homework1, homework2, homework3, homework4, homework5                                 homework3, BRANCHhomework4, BRANCHhomework5
+
+
+
+
